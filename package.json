@@ -1,6 +1,6 @@
 {
   "name": "grunt-django-manage-2",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Run Django manage.py commands",
   "main": "tasks/django-manage.js",
   "scripts": {

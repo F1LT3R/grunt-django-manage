@@ -97,7 +97,7 @@ module.exports = function (grunt) {
      * @name django-manage
      * @memberOf module:DjangoManage
      */
-    grunt.task.registerMultiTask('django-manage', function () {
+    grunt.task.registerMultiTask('django-manage-2', function () {
         // Use node lodash merge clean this up also allows for more data to be
         // used passed through for opstions from dist:{} etc.
         var options = this.options(),
